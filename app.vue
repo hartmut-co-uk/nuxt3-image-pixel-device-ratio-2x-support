@@ -4,6 +4,9 @@
 
       <div>
         <h1>nuxt3-image-pixel-device-ratio-2x-support</h1>
+        <p>
+          <a target="_blank" href="https://github.com/hartmut-co-uk/nuxt3-image-pixel-device-ratio-2x-support">https://github.com/hartmut-co-uk/nuxt3-image-pixel-device-ratio-2x-support</a>
+        </p>
         <h2>Context</h2>
         <p>
           I'd like to achieve support for browsers with high pixel density of screen.
