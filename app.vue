@@ -37,6 +37,7 @@
           <code>
             &lt;img
             src=&quot;/cat.png&quot;
+            alt=&quot;(1) Plain &lt;img&gt; of full size original image&quot;
             class=&quot;w-full&quot;
             width=&quot;1200&quot;
             height=&quot;630&quot;/&gt;
@@ -44,6 +45,7 @@
         </p>
         <img
             src="/cat.png"
+            alt="(1) Plain &lt;img&gt; of full size original image"
             class="w-full"
             width="1200"
             height="630"/>
@@ -56,6 +58,7 @@
           <code>
             &lt;nuxt-img
             src=&quot;/cat.png&quot;
+            alt=&quot;(2) &lt;nuxt-img&gt; with sizes defined for 1x size&quot;
             class=&quot;w-full&quot;
             width=&quot;1200&quot;
             height=&quot;630&quot;
@@ -64,6 +67,7 @@
         </p>
         <nuxt-img
             src="/cat.png"
+            alt="(2) &lt;nuxt-img&gt; with sizes defined for 1x size"
             class="w-full"
             width="1200"
             height="630"
@@ -77,6 +81,7 @@
           <code>
             &lt;nuxt-img
             src=&quot;/cat.png&quot;
+            alt=&quot;(3) &lt;nuxt-img&gt; with 2x size&quot;
             class=&quot;w-full&quot;
             width=&quot;1200&quot;
             height=&quot;630&quot;
@@ -85,6 +90,7 @@
         </p>
         <nuxt-img
             src="/cat.png"
+            alt="(3) &lt;nuxt-img&gt; with 2x size"
             class="w-full"
             width="1200"
             height="630"
@@ -98,6 +104,7 @@
           <code>
             &lt;img
             src=&quot;/cat.png&quot;
+            alt=&quot;(4) Custom responsive plain &lt;img&gt; with pixel-device-ratio=2 support (retina, ipad, ...)&quot;
             class=&quot;w-full&quot;
             width=&quot;1200&quot;
             height=&quot;630&quot;
@@ -107,6 +114,7 @@
         </p>
         <img
             src="/cat.png"
+            alt="(4) Custom responsive plain &lt;img&gt; with pixel-device-ratio=2 support (retina, ipad, ...)"
             class="w-full"
             width="1200"
             height="630"
